@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola 👋  
+
+
+<img align="right" width="100" height="100" src="https://media1.tenor.com/images/e0f076e4cad5306aecf07ebae17c3da5/tenor.gif?itemid=17765599">
+
 
 Soy Carlos actualmente trabajo y siguo aprendiendo en el desarrollo Frontend con tecnologías basadas en JavaScript y Java, a la par estudio y realizo proyectos personales de backend aprobechando desarrollos de frontend que realizo para pruebas y despligues, ya sea consumo de API o validaciones con Token.
 
