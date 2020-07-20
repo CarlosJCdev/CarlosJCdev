@@ -10,28 +10,29 @@ Estoy prescente :bulb: en varias comunidades de desarrollo de software :space_in
 
 ---
 
+
 <table>
   <tr> <th>JavaScript</th> <th>Java</th> <th>PHP</th> </tr>
 <tr><td>
 
-| <img src="https://img.icons8.com/color/48/000000/javascript.png"/> | Tecnología  | Actual manejo |
-| ------------- | ------------- | ------------- |
-| <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>  | Angular v10.0  | Aprendiendo/Trabajando |
-| <img src="https://img.icons8.com/officel/48/000000/react.png"/>  | React v15  | Aprendiendo/Trabajando |
-| <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png"/> |  Ionic v3.19 | Aprendiendo/Trabajo|
-| <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> |  Node v12.17 | Aprendiendo|
+| Tecnología  | Actual manejo |
+| ------------- | ------------- |
+| Angular v10.0  | Aprendiendo/Trabajando |
+| React v15  | Aprendiendo/Trabajando |
+|  Ionic v3.19 | Aprendiendo/Trabajo|
+|  Node v12.17 | Aprendiendo|
 
 </td><td>
 
-| <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> | Tecnología | Actual manejo |
-| ------------- | ------------- | ------------- |
-| <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>  | Spring Boot v2.3 | Aprendiendo/Trabajo |
+| Tecnología | Actual manejo |
+| ------------- | ------------- |
+| Spring Boot v2.3 | Aprendiendo/Trabajo |
 
 </td><td>
   
-| <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> | Tecnología | Actual manejo |
-| ------------- | ------------- | ------------- |
-| <img src="https://img.icons8.com/windows/48/000000/laravel.png"/>  |  Laravel v5.4  | Aprendiendo |
+| Tecnología | Actual manejo |
+| ------------- | ------------- |
+|  Laravel v5.4  | Aprendiendo |
 
 </td></tr> </table>
 
@@ -41,6 +42,6 @@ Estoy prescente :bulb: en varias comunidades de desarrollo de software :space_in
 - 🌱 I’m currently learning backend development by Javascript with node, Php with Laravel
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Java, JavaScript, development Web and movil, but i enjoy talking and learning about everything about technology.
-- 📫 How to reach me: ...
-- ⚡ Fun fact: 
+- 📫 How to reach me: 
+
 
