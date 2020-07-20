@@ -40,8 +40,6 @@ Estoy prescente :bulb: en varias comunidades de desarrollo de software :space_in
 
 - 🔭 I’m currently working on frontend development with Angular, React, Spring, applied to personal projects.
 - 🌱 I’m currently learning backend development by Javascript with node, Php with Laravel
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Java, JavaScript, development Web and movil, but i enjoy talking and learning about everything about technology.
-- 📫 How to reach me: 
 
-
+![](https://github.com/CarlosJCdev/icons/blob/master/7018.jpg)
