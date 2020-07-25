@@ -6,7 +6,7 @@
 
 Soy ```Carlos``` :v: actualmente trabajo :computer: y siguo aprendiendo :mortar_board: en el ```desarrollo Frontend``` con tecnologías basadas en ```JavaScript y Java```, a la par estudio y realizo proyectos personales de ```backend (Javascript, PHP, Java)``` aprovechando desarrollos de frontend que realizo para pruebas y despligues, ya sea consumo de API o validaciones con Token, login, etc.
 
-Estoy prescente :bulb: en varias comunidades de desarrollo de software :space_invader:, en donde apoyo con recursos para el desarrollo, realizo y trato de resolver preguntas acerca de problemas y dudas acerca de algun proyecto.
+Estoy prescente :bulb: en varias comunidades de desarrollo de software :space_invader:, en donde apoyo con recursos para el desarrollo, realizo y trato de resolver preguntas acerca de problemas y dudas.
 
 ---
 
